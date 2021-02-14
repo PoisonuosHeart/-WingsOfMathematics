@@ -1,0 +1,7 @@
+﻿  cArr.c
+C:\СевГу\4_курс\SomeKurs\cArray\cArray\cArr.c(33,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\СевГу\4_курс\SomeKurs\cArray\cArray\cArr.c(148,53): warning C4047: функция: "short" отличается по уровням косвенного обращения от "short *"
+C:\СевГу\4_курс\SomeKurs\cArray\cArray\cArr.c(148,39): warning C4024: arrStackActualOutConsole: различные типы для формального и фактического параметров 3
+  cArray.c
+  Создание кода...
+  cArray.vcxproj -> C:\СевГу\4_курс\SomeKurs\cArray\Debug\cArray.exe
